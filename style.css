@@ -1,0 +1,58 @@
+body 
+{
+    text-align: center;
+    background: linear-gradient(to bottom, #ffff66 0%, #33ccff 100%);
+    font-family: 'Balsamiq Sans', cursive;
+    font-weight: bold;
+}
+    
+
+.heading {
+    width: 100%;
+    margin-top: 0px;
+    font-size: 30px;
+}
+
+.btn-primary {
+    margin-left: 5%;
+    font-size: 18px;
+    width: 150px;
+    font-family: 'Style Script', cursive;
+}
+
+li {
+    background-color:#ffffff;
+    border-radius: 15px;
+    padding: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+li img {
+    width: 40%;
+ 
+}
+
+
+#r 
+ {
+  font-size:35px;
+ }
+ .headind{
+     font-size: 35px;
+ }
+ #t{
+     color:rgb(255, 7, 7);
+ }
+ 
+.copy_right_footer {
+    position: fixed;
+    color:honeydew;
+    bottom: 0;
+    width: 100%;
+    background-color:palevioletred;
+    line-height: 3;
+    text-align: center;
+      font-family: 'Special Elite', cursive;
+ 
+ }
